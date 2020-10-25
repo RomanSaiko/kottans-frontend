@@ -13,7 +13,7 @@ My progress on kottans-frontend course
 
 - [Intro to HTML & CSS](https://github.com/kottans/frontend/blob/master/tasks/html-css-intro.md)
 - [Responsive Web Design](https://github.com/kottans/frontend/blob/master/tasks/html-css-responsive.md)
-- [HTML & CSS Practice](https://github.com/kottans/frontend/blob/master/tasks/htm=[l-css-popup.md)
+- [HTML & CSS Practice](https://github.com/kottans/frontend/blob/master/tasks/html-css-popup.md)
 - [JavaScript Basics](https://github.com/kottans/frontend/blob/master/tasks/js-basics.md)
 - [Document Object Model](https://github.com/kottans/frontend/blob/master/tasks/js-dom.md) - practice
 
@@ -29,9 +29,7 @@ My progress on kottans-frontend course
 
 ## My progress
 
-### General
-
-##### 0. GIT Basics
+###  GIT Basics
 
 I improved my skills at:
 * creating repositories;
@@ -44,6 +42,35 @@ I really liked learngitbranching. It's amazing tool. Thanks to it I understood:
 * the key differences between merge and rebase;
 * how to use some new to me commands and attributes;
 
-<img src="/screenshots/0.git-basics/Version_Control_with_Git.png" alt="Version Control with Git"> <br>
-<img src="/screenshots/0.git-basics/learngitbranching_main.png" alt="learngitbranching main"> <br>
-<img src="/screenshots/0.git-basics/learngitbranching_remote.png" alt="learngitbranching remote">
+<details>
+    <summary>Version Control with Git</summary>
+
+![Version Control with Git](./git-basics/Version_Control_with_Git.png)
+</details>
+
+## Linux CLI, and HTTP
+
+I worked with Unix operating system (Mac OS) earlier and quite actively used the command line. It was my first experience with Linux, but it was not difficult because the commands turned out to be very similar.<br>
+After completing course "Linux Survival" I learned and understood:
+* how to execute different actions on directories and files;
+* "home directory" concept;
+* how to get system information;
+* how to work with processes.
+
+After completing reading articles about HTTP protocols I refreshed my knowledge about:
+* HTTP headers, status codes, messages, responses, requests; 
+* identification and authentication;
+* HTTPS;
+
+and discovered interesting features like:
+* types of headers;
+* using HTTP in web frameworks examples.
+
+<details>
+    <summary>Linux CLI, and HTTP</summary>
+
+![linux survival quiz1](./task_linux_cli/linux-survival1.png)
+![linux survival quiz2](./task_linux_cli/linux-survival2.png)
+![linux survival quiz3](./task_linux_cli/linux-survival3.png)
+![linux survival quiz4](./task_linux_cli/linux-survival4.png)
+</details>
