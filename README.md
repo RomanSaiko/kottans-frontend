@@ -33,6 +33,17 @@ My progress on kottans-frontend course
 
 ##### 0. GIT Basics
 
+I improved my skills at:
+* creating repositories;
+* reviewing repo`s history;
+* adding commits to a repo;
+* tagging, branching and merging;
+* undoing changes. 
+
+I really liked learngitbranching. It's amazing tool. Thanks to it I understood:
+* the key differences between merge and rebase;
+* how to use some new to me commands and attributes;
+
 <img src="/screenshots/0.git-basics/Version_Control_with_Git.png" alt="Version Control with Git"> <br>
 <img src="/screenshots/0.git-basics/learngitbranching_main.png" alt="learngitbranching main"> <br>
 <img src="/screenshots/0.git-basics/learngitbranching_remote.png" alt="learngitbranching remote">
