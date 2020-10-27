@@ -3,6 +3,9 @@ My progress on kottans-frontend course
 
 ## Stage 0. Self-Study
 
+<details>
+    <summary>Stage 0. Self-Study</summary>
+
 #### General
 
 - [GIT Basics](https://github.com/kottans/frontend/blob/master/tasks/git-intro.md)
@@ -26,6 +29,7 @@ My progress on kottans-frontend course
 - [Memory pair game](https://github.com/kottans/frontend/blob/master/tasks/memory-pair-game.md) — real project!
 - [Website Performance Optimization](https://github.com/kottans/frontend/blob/master/tasks/app-design-performance.md)
 - [Friends App](https://github.com/kottans/frontend/blob/master/tasks/friends-app.md) - real project!
+</details>
 
 ## My progress
 
@@ -37,10 +41,6 @@ I improved my skills at:
 * adding commits to a repo;
 * tagging, branching and merging;
 * undoing changes. 
-
-I really liked learngitbranching. It's amazing tool. Thanks to it I understood:
-* the key differences between merge and rebase;
-* how to use some new to me commands and attributes;
 
 <details>
     <summary>Version Control with Git</summary>
@@ -73,4 +73,27 @@ and discovered interesting features like:
 ![linux survival quiz2](./task_linux_cli/linux-survival2.png)
 ![linux survival quiz3](./task_linux_cli/linux-survival3.png)
 ![linux survival quiz4](./task_linux_cli/linux-survival4.png)
+</details>
+
+## Git Collaboration
+
+Thanks to udacity course I improved my skills at:
+* working with remote repositories;
+* collaborating with other developers` repositories (forking);
+
+I was surprised by:
+* git log, it helps to discover a lot of information about the repository;
+* managing PR, it seems simple;
+
+I really liked learngitbranching. It's amazing tool. Thanks to it I understood:
+* the key differences between merge and rebase;
+* how to use rebase`s interactive mode;
+* how to use some new to me commands and attributes;
+
+<details>
+    <summary>Git Collaboration</summary>
+
+![GitHub Collaboration](./task_git_collaboration/GitHub-Collaboration.png)
+![learngitbranching_main](./task_git_collaboration/learngitbranching_main.png)
+![learngitbranching_remote](./task_git_collaboration/learngitbranching_remote.png)
 </details>
