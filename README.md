@@ -97,3 +97,19 @@ I really liked learngitbranching. It's amazing tool. Thanks to it I understood:
 ![learngitbranching_main](./task_git_collaboration/learngitbranching_main.png)
 ![learngitbranching_remote](./task_git_collaboration/learngitbranching_remote.png)
 </details>
+
+## Intro to HTML and CSS
+
+* I improved my skills at HTML and CSS syntax;
+* had good general practise;
+* learned new table attributes;
+* surprised by very clear default configuration of audio, video tags;
+* learned and had great CSS Grid practise;
+
+<details>
+    <summary>Intro to HTML and CSS</summary>
+
+![Intro to HTML CSS](./task_html_css_intro/Intro-to-HTML-CSS.png)
+![Learn HTML Codecademy](./task_html_css_intro/Learn-HTML-Codecademy.png)
+![Learn CSS Codecademy](./task_html_css_intro/Learn-CSS-Codecademy.png)
+</details>
