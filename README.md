@@ -113,3 +113,26 @@ I really liked learngitbranching. It's amazing tool. Thanks to it I understood:
 ![Learn HTML Codecademy](./task_html_css_intro/Learn-HTML-Codecademy.png)
 ![Learn CSS Codecademy](./task_html_css_intro/Learn-CSS-Codecademy.png)
 </details>
+
+## Responsive Web Design
+
+I improved my knowledge at:
+* viewport features, responsive markup features;
+* media query features, breakpoints;
+* optimization tricks for tables;
+
+I learned:
+* how to set up a testing suite using a combination of physical devices, emulators and simulators;
+* the specifics of how pixels on a webpage are rendered and how that impacts the development process;
+* the most popular responsive layout patterns and learn the tools needed to implement them in my own designs;
+
+I was very surprised by remote debugging tools. I realized the benefits of remote debugging for mobile and definitely I will use it.
+
+Thanks to Flexbox Froggy I got amazing practise and improved my mastery of flexbox.
+
+<details>
+    <summary>Responsive Web Design</summary>
+
+![Responsive Web Design Fundamentals](./task_responsive_web_design/Responsive-Web-Design-Fundamentals.png)
+![Flexbox Froggy](./task_responsive_web_design/Flexbox-Froggy.png)
+</details>
