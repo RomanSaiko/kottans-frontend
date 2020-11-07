@@ -136,3 +136,30 @@ Thanks to Flexbox Froggy I got amazing practise and improved my mastery of flexb
 ![Responsive Web Design Fundamentals](./task_responsive_web_design/Responsive-Web-Design-Fundamentals.png)
 ![Flexbox Froggy](./task_responsive_web_design/Flexbox-Froggy.png)
 </details>
+
+## JS Basics
+
+I improved my knowledge at:
+* Data Types and Variables;
+* Conditionals;
+* Loops;
+* Functions;
+* Arrays;
+* Objects;
+
+I learned a lot thanks to practical tasks on freeCodeCamp.org. I also got a good practise experience in solving various tasks.
+
+The most useful knowledge for me was:
+* recursion. I understood how this can help me at my future tasks;
+* how prevent data mutation (freeze() method) and why immutability so important in modern projects;
+* a lot of new array and object methods and how to use them;
+* functional programming and it's core principles;
+
+The hardest part for me was solving algorithmic tasks. It was the biggest challenge for me.
+
+<details>
+    <summary>JavaScript Basics</summary>
+
+![Intro to JavaScript](./task_js_basics/Intro_to_JavaScript.png)
+![freeCodeCamp basics](./task_js_basics/freeCodeCamp_basics.png)
+</details>
