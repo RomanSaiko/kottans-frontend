@@ -137,6 +137,20 @@ Thanks to Flexbox Froggy I got amazing practise and improved my mastery of flexb
 ![Flexbox Froggy](./task_responsive_web_design/Flexbox-Froggy.png)
 </details>
 
+## HTML & CSS practice
+
+#### Hooli-style Popup demo:
+
+https://romansaiko.github.io/kottans-html-css-popup/
+
+<details>
+    <summary>HTML & CSS practice</summary>
+
+![Merged and closed PR](task_html_css_practice/html-css-practice.png)
+</details>
+
+It was a great tricky task. I improved my skills at HTML and CSS. I learned how to make keyboard friendly layout and switch across all interactive elements using only keyboard.
+
 ## JS Basics
 
 I improved my knowledge at:
