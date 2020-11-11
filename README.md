@@ -181,3 +181,12 @@ The hardest part for me was solving algorithmic tasks. It was the biggest challe
 ![Intro to JavaScript](./task_js_basics/Intro_to_JavaScript.png)
 ![freeCodeCamp basics](./task_js_basics/freeCodeCamp_basics.png)
 </details>
+
+## Document Object Model - practice
+
+<details>
+    <summary>Document Object Model</summary>
+
+![JavaScript and the DOM](./task_js_dom/JavaScript-and-the-DOM.png)
+![freeCodeCamp 7 algorithm tasks](./task_js_dom/freeCodeCamp-7alg-tasks.png)
+</details>
