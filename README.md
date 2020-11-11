@@ -139,6 +139,10 @@ Thanks to Flexbox Froggy I got amazing practise and improved my mastery of flexb
 
 ## HTML & CSS practice
 
+#### Repo:
+
+https://github.com/RomanSaiko/kottans-html-css-popup
+
 #### Hooli-style Popup demo:
 
 https://romansaiko.github.io/kottans-html-css-popup/
