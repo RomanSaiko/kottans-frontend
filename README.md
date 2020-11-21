@@ -146,6 +146,7 @@ https://github.com/RomanSaiko/kottans-html-css-popup
 #### Hooli-style Popup demo:
 
 https://romansaiko.github.io/kottans-html-css-popup/
+
 https://github.com/kottans/frontend-2021-homeworks/pull/55
 
 It was a great tricky task. I improved my skills at HTML and CSS. I learned how to make keyboard friendly layout and switch across all interactive elements using only keyboard.
@@ -198,6 +199,7 @@ It was very good practice task that contained key parts of JS. I got really cool
 </details>
 
 https://github.com/RomanSaiko/kottans-dom-practise
+
 https://github.com/kottans/frontend-2021-homeworks/pull/123
 
 ## Building a Tiny JS World
@@ -207,5 +209,7 @@ Good simple task for introduction to OOP concepts.
 I really appreciate the opportunity to get the code review. I got amazing advices at code review. This is the most important part of learning as for me.
 
 https://github.com/kottans/frontend-2021-homeworks/pull/125
+
 https://romansaiko.github.io/a-tiny-JS-world/
+
 https://github.com/RomanSaiko/a-tiny-JS-world
