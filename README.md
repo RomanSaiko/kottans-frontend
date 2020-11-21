@@ -146,12 +146,7 @@ https://github.com/RomanSaiko/kottans-html-css-popup
 #### Hooli-style Popup demo:
 
 https://romansaiko.github.io/kottans-html-css-popup/
-
-<details>
-    <summary>HTML & CSS practice</summary>
-
-![Merged and closed PR](task_html_css_practice/html-css-practice.png)
-</details>
+https://github.com/kottans/frontend-2021-homeworks/pull/55
 
 It was a great tricky task. I improved my skills at HTML and CSS. I learned how to make keyboard friendly layout and switch across all interactive elements using only keyboard.
 
@@ -184,9 +179,33 @@ The hardest part for me was solving algorithmic tasks. It was the biggest challe
 
 ## Document Object Model - practice
 
+I improved my knowledge at:
+* DOM;
+* Creating Content with JavaScript;
+* Working with Browser Events;
+* Reflow & Repaint;
+* Call Stack and Event Loop;
+
+Thanks to 7 tasks at freecodecamp I got a good practise experience. This part wasn`t an easy walk for me.
+
+It was very good practice task that contained key parts of JS. I got really cool advices at code review which improved code efficiency a lot.
+
 <details>
     <summary>Document Object Model</summary>
 
 ![JavaScript and the DOM](./task_js_dom/JavaScript-and-the-DOM.png)
 ![freeCodeCamp 7 algorithm tasks](./task_js_dom/freeCodeCamp-7alg-tasks.png)
 </details>
+
+https://github.com/RomanSaiko/kottans-dom-practise
+https://github.com/kottans/frontend-2021-homeworks/pull/123
+
+## Building a Tiny JS World
+
+Good simple task for introduction to OOP concepts. 
+
+I really appreciate the opportunity to get the code review. I got amazing advices at code review. This is the most important part of learning as for me.
+
+https://github.com/kottans/frontend-2021-homeworks/pull/125
+https://romansaiko.github.io/a-tiny-JS-world/
+https://github.com/RomanSaiko/a-tiny-JS-world
