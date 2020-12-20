@@ -213,3 +213,37 @@ https://github.com/kottans/frontend-2021-homeworks/pull/125
 https://romansaiko.github.io/a-tiny-JS-world/
 
 https://github.com/RomanSaiko/a-tiny-JS-world
+
+## Object oriented JS - practice
+
+I learned a lot on such topics:
+* Scopes;
+* Closures;
+* this keyword;
+* Prototype Chains;
+* Object Decorator Pattern;
+* Functional Classes;
+* Prototypal Classes;
+* Pseudoclassical Patterns;
+* Superclass and Subclasses;
+* Pseudoclassical Subclasses;
+
+I completed frogger game. It was difficult and unobvious task for me.
+
+I returned to codewars service after a long period. Now I am better prepared to solve tasks (katas) and achieved new levels (kuys). I plan to continue the task solving at this service at future.
+
+<details>
+    <summary>Document Object Model</summary>
+
+![Object Oriented JavaScript](./task_js_oop/Object-Oriented-JavaScript.png)
+</details>
+
+https://github.com/kottans/frontend-2021-homeworks/pull/154
+
+https://www.codewars.com/users/Roman%20Saiko
+
+## OOP exercise - practice
+
+I can't even imagine all the tricky features of this practice task. I got amazing advices at code review. It helped me understood basic oop principles. I think it is very good example of basic oop task.
+
+https://github.com/kottans/frontend-2021-homeworks/pull/222
